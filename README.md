@@ -1,10 +1,9 @@
 # css-images-challenge
-This repository contains a collection of images drawn using CSS. The main goal was to level up my skills in CSS as well as my creativity in web design which is paramount to front-end web development.
+### Challenge #2 - Animated Koala
+This is the animated version of [this](https://github.com/bmuthoga/css-images-challenge/tree/koala-css-image) CSS image. I've kept the animations simple for this one.
 
-Most of the images are developed using only CSS and HTML, but some animations may include Javascript, although I've tried to keep their complexity to a minimum. 
+I used [this](https://codepen.io/bfred-it/pen/RNGOQW) codepen by [bfred-it](https://codepen.io/bfred-it) as a reference for animating the eyes and borrowed the idea of twitching the nose from [this](https://codepen.io/zastrow/pen/kLeDa) codepen by [Philip Zastrow](https://codepen.io/zastrow).
 
-This repository is open to all with the intention of helping others learn something new. Each image is on its own separate branch and you can find the links to the various sources and guides that I came across while learning on the respective image's branch. Do follow the links as they contain more detailed info whereas this repository only contains the final product. 
+Here's how the animated CSS image looks like:
 
-If you find anything amiss, such as credit to your work, or even want to issue a takedown request of references to your work, feel free to ping me via [email](mailto:bmuthoga@gmail.com)
-
-<img src="https://media.giphy.com/media/xUPGcyuPRNjODvvOFO/giphy.gif" width="167" height="200" />
+<img src="https://image.ibb.co/dc19yd/animated_koala.gif" width="300" height="200" />
